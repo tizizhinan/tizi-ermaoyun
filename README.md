@@ -1,7 +1,7 @@
 # 二猫云怎么样？2026 三网优化机场深度评测（附 8 折优惠码）
 
 > 二猫云值不值得买？本文讲清三网优化到底是什么、六档套餐怎么选、AI 与流媒体实测、单节点 2.5Gbps 测速，以及专属 8 折优惠码 `TIZIZHINAN`。
-> **完整评测与实时测速表 → [tizizhinan.com/brands/ermaoyun](https://tizizhinan.com/brands/ermaoyun/)**
+> **完整评测与实时测速表 → [tizizhinan.co/brands/ermaoyun](https://tizizhinan.co/brands/ermaoyun/)**
 
 ![评分](https://img.shields.io/badge/综合评分-9.4-2ea44f) ![套餐](https://img.shields.io/badge/主打-¥20%2F月%20130GB-blue) ![优惠码](https://img.shields.io/badge/优惠码-TIZIZHINAN%208折-orange)
 
@@ -13,7 +13,7 @@
 
 二猫云是本站综合评分最高（**9.4**）、也最适合新手和日常使用的一家机场：**三网优化**保证联通/电信/移动各运营商都跑得顺，**¥20/月 130GB** 性价比高，AI 与流媒体**全解锁**，自研客户端一键上手。本站专属优惠码 **`TIZIZHINAN`（8 折）**。
 
-👉 **[访问二猫云官网领 8 折](https://tizizhinan.com/go/ermaoyun/)** · [看完整评测与测速表](https://tizizhinan.com/brands/ermaoyun/)
+👉 **[访问二猫云官网领 8 折](https://tizizhinan.co/go/ermaoyun/)** · [看完整评测与测速表](https://tizizhinan.co/brands/ermaoyun/)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 测速：单节点峰值 2.5Gbps
 
-70+ 节点，覆盖香港 / 台湾 / 日本 / 新加坡 / 美国 / 德国，单节点峰值实测可达 **2.5Gbps**，是本站三家里最高。分地区测速表见 [评测页](https://tizizhinan.com/brands/ermaoyun/#speed)。
+70+ 节点，覆盖香港 / 台湾 / 日本 / 新加坡 / 美国 / 德国，单节点峰值实测可达 **2.5Gbps**，是本站三家里最高。分地区测速表见 [评测页](https://tizizhinan.co/brands/ermaoyun/#speed)。
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 怎么买、怎么用
 
-1. 进 [二猫云官网](https://tizizhinan.com/go/ermaoyun/) 注册（结算填 `TIZIZHINAN` 享 8 折）
+1. 进 [二猫云官网](https://tizizhinan.co/go/ermaoyun/) 注册（结算填 `TIZIZHINAN` 享 8 折）
 2. 选套餐——新手推荐白猫 ¥20/130GB 或年付小包先试
 3. 装自研客户端（或 Clash Verge / v2rayN），导入订阅、选节点、开启即可
 
@@ -73,11 +73,11 @@
 
 ## 相关
 
-- [二猫云完整评测（含测速表、解锁矩阵、线路拓扑）](https://tizizhinan.com/brands/ermaoyun/)
-- [2026 机场推荐榜](https://tizizhinan.com/airport/recommend/) · [梯子推荐完整版](https://tizizhinan.com/blog/tizi-recommend-2026/)
-- [机场对比工具](https://tizizhinan.com/compare/) · [跑路预警查询](https://tizizhinan.com/runaway/)
+- [二猫云完整评测（含测速表、解锁矩阵、线路拓扑）](https://tizizhinan.co/brands/ermaoyun/)
+- [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) · [梯子推荐完整版](https://tizizhinan.co/blog/tizi-recommend-2026/)
+- [机场对比工具](https://tizizhinan.co/compare/) · [跑路预警查询](https://tizizhinan.co/runaway/)
 
-> 本页为 [梯子指南 tizizhinan.com](https://tizizhinan.com/) 的精简镜像，完整数据、测速表与实时状态以站内为准。含推广链接，不影响评测结论。
+> 本页为 [梯子指南 tizizhinan.co](https://tizizhinan.co/) 的精简镜像，完整数据、测速表与实时状态以站内为准。含推广链接，不影响评测结论。
 
 ---
 
@@ -87,12 +87,12 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-09-26 20:04 |
-| 官网状态 | 在线（3013ms） |
-| 30 天可用率 | 100%（已测 9 天） |
-| 连续正常 | 16 天 |
+| 最近一次检测 | 2026-09-27 20:04 |
+| 官网状态 | 在线（629ms） |
+| 30 天可用率 | 100%（已测 10 天） |
+| 连续正常 | 17 天 |
 
-可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.com/status/](https://tizizhinan.com/status/)，机器可读数据见 [monitor.json](https://tizizhinan.com/data/monitor.json)（CC BY 4.0）。
+可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
 ## 当前主打套餐
 
@@ -100,22 +100,22 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 白猫套餐（主推） | ¥20/月 | 130GB | ¥0.15 | 三网优化 / IEPL 专线 / 特色直连 / 优质中转 | 运营约 4 年 |
 
-价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [二猫云评测](https://tizizhinan.com/brands/ermaoyun/)。
+价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [二猫云评测](https://tizizhinan.co/brands/ermaoyun/)。
 
 ## 本站收录的其他机场
 
-二猫云在 [2026 机场推荐榜](https://tizizhinan.com/airport/recommend/) 中排第 1 位。同榜其余各家：
+二猫云在 [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) 中排第 1 位。同榜其余各家：
 
-1. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.com/brands/yuzhouyun/)
-2. [光速云](https://github.com/tizizhinan/tizi-guangsu) · [完整评测](https://tizizhinan.com/brands/guangsu/)
-3. [星岛梦](https://github.com/tizizhinan/tizi-xingdaomeng) · [完整评测](https://tizizhinan.com/brands/xingdaomeng/)
-4. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.com/brands/muguang/)
-5. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.com/brands/weifeng/)
-6. [飞猫云](https://github.com/tizizhinan/tizi-feimao) · [完整评测](https://tizizhinan.com/brands/feimao/)
-7. [无忧链接](https://github.com/tizizhinan/tizi-wuyou) · [完整评测](https://tizizhinan.com/brands/wuyou/)
+1. [宇宙云](https://github.com/tizizhinan/tizi-yuzhouyun) · [完整评测](https://tizizhinan.co/brands/yuzhouyun/)
+2. [光速云](https://github.com/tizizhinan/tizi-guangsu) · [完整评测](https://tizizhinan.co/brands/guangsu/)
+3. [星岛梦](https://github.com/tizizhinan/tizi-xingdaomeng) · [完整评测](https://tizizhinan.co/brands/xingdaomeng/)
+4. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.co/brands/muguang/)
+5. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.co/brands/weifeng/)
+6. [飞猫云](https://github.com/tizizhinan/tizi-feimao) · [完整评测](https://tizizhinan.co/brands/feimao/)
+7. [无忧链接](https://github.com/tizizhinan/tizi-wuyou) · [完整评测](https://tizizhinan.co/brands/wuyou/)
 
-完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.com/airport/recommend/](https://tizizhinan.com/airport/recommend/)
+完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.co/airport/recommend/](https://tizizhinan.co/airport/recommend/)
 
 ---
 
-*本页由 [梯子指南 TiziZhinan](https://tizizhinan.com) 编辑部维护，数据每日自动更新。展示顺序为编辑部固定排序，不等于评分高低，评分口径见[评测方法论](https://tizizhinan.com/about/methodology/)。站内品牌链接含推广参数，详见[免责声明与推广披露](https://tizizhinan.com/disclaimer/)。*
+*本页由 [梯子指南 TiziZhinan](https://tizizhinan.co) 编辑部维护，数据每日自动更新。展示顺序为编辑部固定排序，不等于评分高低，评分口径见[评测方法论](https://tizizhinan.co/about/methodology/)。站内品牌链接含推广参数，详见[免责声明与推广披露](https://tizizhinan.co/disclaimer/)。*
