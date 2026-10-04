@@ -3,7 +3,7 @@
 > 二猫云值不值得买？本文讲清三网优化到底是什么、六档套餐怎么选、AI 与流媒体实测、单节点 2.5Gbps 测速，以及专属 8 折优惠码 `TIZIZHINAN`。
 > **完整评测与实时测速表 → [tizizhinan.co/brands/ermaoyun](https://tizizhinan.co/brands/ermaoyun/)**
 
-![评分](https://img.shields.io/badge/综合评分-9.4-2ea44f) ![套餐](https://img.shields.io/badge/主打-¥20%2F月%20130GB-blue) ![优惠码](https://img.shields.io/badge/优惠码-TIZIZHINAN%208折-orange)
+![评分](https://img.shields.io/badge/综合评分-9.7-2ea44f) ![套餐](https://img.shields.io/badge/主打-¥20%2F月%20130GB-blue) ![优惠码](https://img.shields.io/badge/优惠码-TIZIZHINAN%208折-orange)
 
 关键词：二猫云、二猫云怎么样、二猫云评测、二猫云优惠码、三网优化机场、翻墙、科学上网、Clash 节点、ChatGPT / Claude 解锁。
 
@@ -11,7 +11,7 @@
 
 ## 一句话结论
 
-二猫云是本站综合评分最高（**9.4**）、也最适合新手和日常使用的一家机场：**三网优化**保证联通/电信/移动各运营商都跑得顺，**¥20/月 130GB** 性价比高，AI 与流媒体**全解锁**，自研客户端一键上手。本站专属优惠码 **`TIZIZHINAN`（8 折）**。
+二猫云是本站综合评分最高（**9.7**）、也最适合新手和日常使用的一家机场：**三网优化**保证联通/电信/移动各运营商都跑得顺，**¥20/月 130GB** 性价比高，AI 与流媒体**全解锁**，自研客户端一键上手。本站专属优惠码 **`TIZIZHINAN`（8 折）**。
 
 👉 **[访问二猫云官网领 8 折](https://tizizhinan.co/go/ermaoyun/)** · [看完整评测与测速表](https://tizizhinan.co/brands/ermaoyun/)
 
@@ -87,10 +87,10 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-03 20:00 |
-| 官网状态 | 在线（354ms） |
-| 30 天可用率 | 100%（已测 15 天） |
-| 连续正常 | 22 天 |
+| 最近一次检测 | 2026-10-04 20:00 |
+| 官网状态 | 在线（343ms） |
+| 30 天可用率 | 100%（已测 16 天） |
+| 连续正常 | 23 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
